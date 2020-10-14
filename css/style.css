@@ -1,5 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7581a1;
 }
 a{
     text-decoration: none;
@@ -19,4 +22,45 @@ h1{
     color: #fff;
     font-weight: 400;
     background-color: #1085e4;
+}
+.grid h2{
+    font-size: 40px;
+    color: #192b59;
+    font-weight: 700;
+}
+.grid h2 span{
+    font-size: 14px;
+    color: #1085e4;
+    display: block;
+}
+.grid-item h3{
+    font-size: 20px;
+    color: #192b59;
+    font-weight: 600;
+}
+.grid-item a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+}
+.page-software h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-subscribe h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #fff;
+}
+.page-subscribe h2 span{
+    font-size: 14px;
+    font-weight: Extra-bold 800;
+    color: #1085e4;
+    display: block;
+}
+.page-software h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
 }
