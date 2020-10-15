@@ -12,6 +12,11 @@ h1{
     font-weight: 600;
     color: #192b59;
 }
+.page-header h1{
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+}
 .nav{
     font-size: 12px;
     font-weight: 700;
